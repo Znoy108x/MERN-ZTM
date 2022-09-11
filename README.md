@@ -1,6 +1,6 @@
 # Hello, I am <a href="https://www.linkedin.com/in/abhay-bisht-042662177/">Abhay Bisht </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> , I made this project ZTM-Clone
 
-<a href="https://znoy-notes.netlify.app/">Deployed Link</a>
+<a href="https://zerotomastery.netlify.app/">Deployed Link</a>
 
 ## Message 📃
 - I have created the created backend and frontend for this project
